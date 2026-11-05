@@ -1,5 +1,7 @@
 import anthropic
-from datetime import datetime
+from dotenv import load_dotenv
+
+load_dotenv()  # reads the .env file and loads the key into the environment
 
 client = anthropic.Anthropic()
 
