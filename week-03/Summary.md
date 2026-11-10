@@ -1,0 +1,2 @@
+10/11/2027
+el jaialbraik ataque directamente al modelo, para que ignore sus propias normas. El filtro de palabras no sireve, por que es un atécnica finita, para algo infinit o y auq ele jailbrak no va de palabras sino de alterar la intencion del modelo, su modus operandi o respondi, eso deja care el ehco de que el modelo no distingue por jerraquia su instruccion base (el system prompt) o la que le entra por le canal del usuario, para que entienda esa jerarquía y pueda comparara siempre lo que le lelgue del canal del usuario contra lo que tiene en su system propmt 
